@@ -131,6 +131,7 @@ footer {
     text-transform: none;
     font-family: Georgia, Times, serif;
 }
+
 #author{
     display: flex;
     flex-direction: row;
