@@ -23,3 +23,5 @@
 * Cypress will open -- you should then click "run <#> integration spec(s)"
     ![](cypress.png)
 * Make sure all tests pass
+
+* yoyoy whats a good branch anyways?
