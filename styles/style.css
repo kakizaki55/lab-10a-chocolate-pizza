@@ -53,7 +53,6 @@ h2 {
     display: flex;
     justify-content: space-between;
     align-items: flex-end;
-    
 }
 
 #main-img {
@@ -90,13 +89,13 @@ footer {
 
 .line-bar{
     margin: 40px 0px;
-    height: 15px;
+    height: 20px;
     background: repeating-linear-gradient(
      45deg,
      transparent, 
      transparent , 
-     #979797 3px,
-     #979797 3px
+     #979797 5px,
+     #979797 5px
     );
 }
 
@@ -131,34 +130,5 @@ footer {
     text-transform: none;
     font-family: Georgia, Times, serif;
 }
-#author{
-    display: flex;
-    flex-direction: row;
-    justify-content: space-between;
-    align-items: center;
 
-
-}
-#vanessa{
-    height: 71px;
-    display: block;
-    margin: 0px 20px 0px 0px;
-    
-}
-h3{
-    font-size: 22px;
-
-}
-.share-recipe-button{
-    background-color: #AB6448;
-    color: white;
-    border: none;
-    height: 50px;
-    
-}
-#author-left p{
-    font-size: 20px;
-    padding-right: 120px;
-
-    
-}
+/* loophole comment */
