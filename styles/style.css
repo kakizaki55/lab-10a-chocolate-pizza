@@ -130,5 +130,40 @@ footer {
     text-transform: none;
     font-family: Georgia, Times, serif;
 }
+<<<<<<< HEAD
 
 /* loophole comment */
+=======
+
+#author{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+
+
+}
+#vanessa{
+    height: 71px;
+    display: block;
+    margin: 0px 20px 0px 0px;
+    
+}
+h3{
+    font-size: 22px;
+
+}
+.share-recipe-button{
+    background-color: #AB6448;
+    color: white;
+    border: none;
+    height: 50px;
+    
+}
+#author-left p{
+    font-size: 20px;
+    padding-right: 120px;
+
+    
+}
+>>>>>>> c4add3191796cf6d449456ea64352038a3a5e4f4
