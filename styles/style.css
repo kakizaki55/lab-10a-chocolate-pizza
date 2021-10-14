@@ -62,3 +62,24 @@ footer {
      #979797 5px
     );
 }
+#recipe{
+    background-image: url(../assets/list-bg.png);
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    align-content: center;
+    width: 901px;
+    font-family: cursive ;
+    font-size: 20px;
+    height: 250px;
+
+
+    
+
+}
+.instructions{
+    font-size:18px;
+    font-family: Georgia, Times, serif;
+    text-indent: 40px;
+    
+}
