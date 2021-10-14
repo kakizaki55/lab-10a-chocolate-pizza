@@ -1,1 +1,52 @@
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
 
+header {
+    width: 901px;
+    display: flex;
+    justify-content: space-between;
+}
+
+h2 {
+    margin: 0px;
+    padding: 0px;
+}
+
+.header-text {
+    margin: 0px;
+    padding: 10px 0px 0px 0px;
+}
+
+#header-text-box {
+    height: 50px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+}
+
+#logo {
+    width: 50px;
+    height: 50px;
+}
+
+#left-header {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+#right-header {
+    float: right;
+    padding: 10px;
+}
+
+main {
+    width: 901px;
+}
+
+footer {
+    width: 901px;
+}
